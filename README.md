@@ -6,3 +6,7 @@ the clock and the date will be display at the output of the program
 the program should look like the png file in the 
 Currency_converter_modify
 folder
+.
+.
+.
+hope this will be ok
